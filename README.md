@@ -33,6 +33,7 @@ q)show a:42
 42
 ```
 ## Order of Evaluation
+```
 q)show b:1+a:42
 43
 q)a
